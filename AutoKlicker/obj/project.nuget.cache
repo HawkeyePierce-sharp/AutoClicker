@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Pc0HdV4AN/mfaicYXqm4kA2wMSQ5JjNrWKliotOGEsfl6bFJqqTwuJpttFWRdmRRL8A118jFC2TavfdrT+AaGw==",
+  "dgSpecHash": "X4JV9jCsZfgFcuDy+20tia+jUGn4D84Udd3yhwKLK7ismI0xJ+9Sm439VLDbok53jnx6n2L2FYLTe1ry4lAufQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jschl\\source\\repos\\AutoKlicker\\AutoKlicker\\AutoKlicker.csproj",
+  "projectFilePath": "C:\\Users\\jschl\\Source\\Repos\\AutoClicker\\AutoKlicker\\AutoKlicker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jschl\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
     "C:\\Users\\jschl\\.nuget\\packages\\microsoft.extensions.objectpool\\5.0.10\\microsoft.extensions.objectpool.5.0.10.nupkg.sha512",

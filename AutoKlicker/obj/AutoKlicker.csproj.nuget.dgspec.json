@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jschl\\source\\repos\\AutoKlicker\\AutoKlicker\\AutoKlicker.csproj": {}
+    "C:\\Users\\jschl\\Source\\Repos\\AutoClicker\\AutoKlicker\\AutoKlicker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jschl\\source\\repos\\AutoKlicker\\AutoKlicker\\AutoKlicker.csproj": {
+    "C:\\Users\\jschl\\Source\\Repos\\AutoClicker\\AutoKlicker\\AutoKlicker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jschl\\source\\repos\\AutoKlicker\\AutoKlicker\\AutoKlicker.csproj",
+        "projectUniqueName": "C:\\Users\\jschl\\Source\\Repos\\AutoClicker\\AutoKlicker\\AutoKlicker.csproj",
         "projectName": "AutoKlicker",
-        "projectPath": "C:\\Users\\jschl\\source\\repos\\AutoKlicker\\AutoKlicker\\AutoKlicker.csproj",
+        "projectPath": "C:\\Users\\jschl\\Source\\Repos\\AutoClicker\\AutoKlicker\\AutoKlicker.csproj",
         "packagesPath": "C:\\Users\\jschl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jschl\\source\\repos\\AutoKlicker\\AutoKlicker\\obj\\",
+        "outputPath": "C:\\Users\\jschl\\Source\\Repos\\AutoClicker\\AutoKlicker\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jschl\\AppData\\Roaming\\NuGet\\NuGet.Config",
